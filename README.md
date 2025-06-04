@@ -60,20 +60,21 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 ## 📬 Connect With Me
 
-<p>
-  <a href="mailto:chauhanakshat50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chauhanakshat50@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
+<div align="center">
+  <a href="mailto:chauhanakshat50@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/akshat-chauhan-ba2a64326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Chauhan-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://leetcode.com/u/Akshat_Chauhan_7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Akshat_Chauhan_7-FE7F00?style=flat&logo=leetcode&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/AkshatChauhan7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AkshatChauhan7-181717?style=flat&logo=github&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
-</p>
+</div>
+
 
 ---
 
