@@ -69,21 +69,12 @@ Hi, I'm **Akshat Chauhan** – a driven CSE undergrad who learns best by doing. 
 
 ---
 
-## 🧠 Competitive Programming
+## 🎯 Fun Facts About Me
 
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-FE7F00?style=flat&logo=leetcode&logoColor=white" height="25"/>
-  <a href="https://leetcode.com/u/Akshat_Chauhan_7/" target="_blank">Check out my LeetCode</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatChauhan7&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshatChauhan7&theme=tokyonight" height="150"/>
-</p>
+- 💡 I learn tech by building projects, not just watching tutorials  
+- 🎮 I’m secretly designing a driving game to make physics fun  
+- 🔍 I aim to build tools that actually help people stay fit and financially smart  
+- ✍️ I draw anime too — creativity fuels my code!
 
 ---
 
