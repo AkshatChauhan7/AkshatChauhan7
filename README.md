@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Who Am I?
 
-I'm Akshat — a BTech CSE student, a passionate programmer. I love building cool and meaningful projects. I believe in learning by doing and sharing my journey with others!
+I'm Akshat — a BTech CSE student, passionate programmer. I love building cool and meaningful projects. I believe in learning by doing and sharing my journey with others!
 
 ## 🚀 My Tech Toolbox
 
@@ -21,32 +21,28 @@ I'm Akshat — a BTech CSE student, a passionate programmer. I love building coo
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ" height="30"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" height="30"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
 </p>
 
 ### 🎮 Other Interests:
+- Game Development (2D Driving Game in progress 🚗)
 - GUI Designing (Aiming for clean, intuitive interfaces)
 - Finance and Health Tech Projects
 
 ## 🌱 Currently Learning
 
-- **C++ for Competitive Programming** using Striver's roadmap
-- **JS Projects** like Weather App, Crypto Predictor & more!
+**C++ for Competitive Programming** using Striver's roadmap
 
-## 📚 Notable Project
+## 📚 Notable Projects
 
 - **Fitness Tracker App (JavaFX + MySQL)** — Log workouts, meals, and more  
+
 
 ## 💻 Competitive Programming
 
 <p>
   <img src="https://img.shields.io/badge/LeetCode-FE7F00?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/> 
-  <a href="https://leetcode.com/u/Akshat-username/" target="_blank">LeetCode Profile</a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="30"/> 
-  <a href="https://www.codechef.com/users/Akshat-username" target="_blank">CodeChef Profile</a>
+  <a href="https://leetcode.com/u/Akshat_Chauhan_7/" target="_blank">LeetCode Profile</a>
 </p>
 
 ## 📬 Let's Connect
@@ -58,4 +54,3 @@ I'm Akshat — a BTech CSE student, a passionate programmer. I love building coo
 ---
 
 > 💡 *"Build what excites you. Share what helps others. Learn something new every day."*
-
