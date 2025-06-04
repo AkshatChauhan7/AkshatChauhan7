@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hey there, I'm Akshat Chauhan! 👋
 
-<!--
-**AkshatChauhan7/AkshatChauhan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who Am I?
 
-Here are some ideas to get you started:
+I'm Akshat — a BTech CSE student, a passionate programmer. I love building cool and meaningful projects. I believe in learning by doing and sharing my journey with others!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Toolbox
+
+### 💻 Languages:
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="30"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+</p>
+
+### 🛠️ Frameworks & Tools:
+<p>
+  <img src="https://img.shields.io/badge/JavaFX-FF7800?style=flat&logo=java&logoColor=white" alt="JavaFX" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ" height="30"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" height="30"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
+</p>
+
+### 🎮 Other Interests:
+- GUI Designing (Aiming for clean, intuitive interfaces)
+- Finance and Health Tech Projects
+
+## 🌱 Currently Learning
+
+- **C++ for Competitive Programming** using Striver's roadmap
+- **JS Projects** like Weather App, Crypto Predictor & more!
+
+## 📚 Notable Project
+
+- **Fitness Tracker App (JavaFX + MySQL)** — Log workouts, meals, and more  
+
+## 💻 Competitive Programming
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-FE7F00?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/> 
+  <a href="https://leetcode.com/u/Akshat-username/" target="_blank">LeetCode Profile</a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="30"/> 
+  <a href="https://www.codechef.com/users/Akshat-username" target="_blank">CodeChef Profile</a>
+</p>
+
+## 📬 Let's Connect
+
+- **Email**: chauhanakshat50@gmail.com
+- **LinkedIn**: [Akshat Chauhan]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/akshat-chauhan-ba2a64326/))  
+- **GitHub**: You're already here 😄
+
+---
+
+> 💡 *"Build what excites you. Share what helps others. Learn something new every day."*
+
