@@ -73,6 +73,9 @@ I believe in building real-world projects to learn deeply, solve actual problems
   <a href="https://github.com/AkshatChauhan7" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
+  <a href="https://linktr.ee/akshatchauhan7" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" height="35" />
+  </a>
 </div>
 
 
