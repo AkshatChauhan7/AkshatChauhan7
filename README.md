@@ -81,10 +81,33 @@ I believe in building real-world projects to learn deeply, solve actual problems
 </div>
 
 
-## 🧮 LeetCode Stats
+<!-- ──────────────────────────────── -->
+## 🧮 LeetCode Stats & Activity
+<div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Akshat_Chauhan_7?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/Akshat_Chauhan_7/)
-https://leetcard.jacoblin.cool/<your-username>?theme=dark&font=baloo&ext=activity
+<!-- main stats card -->
+<img
+  src="https://leetcard.jacoblin.cool/Akshat_Chauhan_7
+       ?theme=tokyonight          <!-- colour palette -->
+       &font=baloo                <!-- playful headline font -->
+       &border=true               <!-- draw a border -->
+       &radius=12"               <!-- rounded corners -->
+  width="380" />
+
+&nbsp;&nbsp;<!-- tiny gap between the two cards -->
+
+<!-- 52-week heat-map card (shows your daily solve streak) -->
+<img
+  src="https://leetcard.jacoblin.cool/Akshat_Chauhan_7
+       ?theme=tokyonight
+       &font=baloo
+       &border=true
+       &radius=12
+       &ext=heatmap"             <!-- heat-map extension -->
+  width="380" />
+
+</div>
+<!-- ──────────────────────────────── -->
 
 
 
