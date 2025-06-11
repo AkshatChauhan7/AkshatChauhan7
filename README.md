@@ -45,7 +45,8 @@ I believe in building real-world projects to learn deeply, solve actual problems
 ## 📚 Currently Learning
 
 - **C++ for Competitive Programming** 
-- **Web Development** 
+- **Web Development**
+- Building a complete **C++ LeetCode archive**
 
 ---
 
@@ -55,6 +56,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 - I'm focused on **building skills** by actually **shipping projects**  
 - Also passionate about **UI/UX**, making code look and feel good  
 - I balance my logical side with **anime art as a hobby**
+
 
 ---
 
@@ -77,6 +79,12 @@ I believe in building real-world projects to learn deeply, solve actual problems
     <img src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" height="35" />
   </a>
 </div>
+
+
+## 🧮 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Akshat_Chauhan_7?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/Akshat_Chauhan_7/)
+https://leetcard.jacoblin.cool/<your-username>?theme=dark&font=baloo&ext=activity
 
 
 
