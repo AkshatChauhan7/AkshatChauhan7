@@ -36,7 +36,8 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 ## 🧩 Projects
 
-- **Fitness Tracker App** – A JavaFX + MySQL application to log workouts, meals, and fitness data  
+- **Fitness Tracker App** – A JavaFX + MySQL application to log workouts, meals, and fitness data
+- **My LeetCode Solutions** - Add LeetCode Solution in this repository when ever I complete one
 - **Finance Tracker (Coming soon)** – Track and categorize expenses visually  
 - **Clean UI Designs** – Focused efforts on intuitive layouts and user-focused interfaces
 
