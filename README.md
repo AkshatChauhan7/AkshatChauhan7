@@ -38,7 +38,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 - **Fitness Tracker App** – A JavaFX + MySQL application to log workouts, meals, and fitness data
 - **My LeetCode Solutions** - Add LeetCode Solution in this repository when ever I complete one
-- **Finance Tracker (Coming soon)** – Track and categorize expenses visually  
+- **DSA Tracker (Coming soon)** – Track your DSA progress
 - **Clean UI Designs** – Focused efforts on intuitive layouts and user-focused interfaces
 
 ---
@@ -53,7 +53,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 ## 🧠 A Bit More About Me
 
-- I enjoy applying tech in **health & finance domains**  
+- I enjoy applying tech in **health domains and tracking progress in DSA**  
 - I'm focused on **building skills** by actually **shipping projects**  
 - Also passionate about **UI/UX**, making code look and feel good  
 - I balance my logical side with **anime art as a hobby**
