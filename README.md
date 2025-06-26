@@ -48,6 +48,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 - **C++ for Competitive Programming** 
 - **Web Development**
 - Building a complete **C++ LeetCode archive**
+- Building a DSA Tracker project (coming soon)
 
 ---
 
