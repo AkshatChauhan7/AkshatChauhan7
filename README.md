@@ -107,6 +107,10 @@ I believe in building real-world projects to learn deeply, solve actual problems
 > — *Akshat Chauhan*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+🚀" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting+🙏" />
 </p>
 
