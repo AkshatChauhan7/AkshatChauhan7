@@ -3,11 +3,6 @@
   BTech CSE Student · JavaFX Developer · Web & Backend Learner · Tech Explorer
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="700"/>
-</p>
-
-
 
 ---
 
@@ -110,3 +105,8 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 > “Build what excites you. Share what helps others. Learn something new every day.”  
 > — *Akshat Chauhan*
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+🚀" alt="Typing SVG" />
+</p>
+
