@@ -3,6 +3,12 @@
   BTech CSE Student · JavaFX Developer · Web & Backend Learner · Tech Explorer
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="700"/>
+</p>
+
+
+
 ---
 
 ## 👨‍💻 About Me
