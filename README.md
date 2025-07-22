@@ -39,6 +39,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 - **Fitness Tracker App** – A JavaFX + MySQL application to log workouts, meals, and fitness data
 - **My LeetCode Solutions** - Add LeetCode Solution in this repository when ever I complete one
+- **My first deployed mini project** - Deployed a currency converter on Vercel https://currency-converter-red-eight.vercel.app/
 - **DSA Tracker (Coming soon)** – Track your DSA progress
 - **Clean UI Designs** – Focused efforts on intuitive layouts and user-focused interfaces
 
