@@ -28,9 +28,20 @@ I believe in building real-world projects to learn deeply, solve actual problems
 <p>
   <img src="https://img.shields.io/badge/JavaFX-FF7800?style=flat&logo=java&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="26"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="26"/>
+</p>
+
+### 🚀 Core Development
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=flat&logo=codeforces&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Competitive%20Programming-1E90FF?style=flat&logo=leetcode&logoColor=white" height="26"/>
 </p>
 
 ---
