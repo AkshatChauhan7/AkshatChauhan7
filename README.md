@@ -51,7 +51,6 @@ I believe in building real-world projects to learn deeply, solve actual problems
 - **C++ for Competitive Programming** 
 - **Web Development**
 - Building a complete **C++ LeetCode archive**
-- Building a DSA Tracker project (coming soon)
 
 ---
 
@@ -59,7 +58,8 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 - I enjoy applying tech in **health domains and tracking progress in DSA**  
 - I'm focused on **building skills** by actually **shipping projects**  
-- Also passionate about **UI/UX**, making code look and feel good  
+- Also passionate about **UI/UX**, making code look and feel good
+- I love to go gym
 - I balance my logical side with **anime art as a hobby**
 
 
