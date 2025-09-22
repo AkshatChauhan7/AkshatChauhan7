@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Akshat Chauhan</h1>
 <p align="center">
-  BTech CSE Student · JavaFX Developer · Web & Backend Learner · Tech Explorer
+  BTech CSE Student · JavaFX Developer · DSA with C++ · Web & Backend Learner · Tech Explorer
 </p>
 
 
