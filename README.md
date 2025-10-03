@@ -107,7 +107,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 - **C++ for Competitive Programming** 
 - **Web Development**
-- Building a complete **C++ LeetCode archive**
+- **AI/ML**
 
 ---
 
@@ -123,11 +123,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 
 ---
-## GitHub Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatChauhan7&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Akshat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatChauhan7&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
+
 
 ##  Connect With Me
 
