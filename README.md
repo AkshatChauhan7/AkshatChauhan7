@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="265"/>
+  <img src="https://i.pinimg.com/1200x/90/3a/2b/903a2b802fee7bf04365394866d5a9b5.jpg" width="265"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="265"/>
+</p>
+
+
 <h1 align="center">Hi, I'm Akshat Chauhan</h1>
 <p align="center">
   BTech CSE Student · JavaFX Developer · DSA with C++ · Web & Backend Learner · Tech Explorer
