@@ -20,7 +20,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 
 ---
 
-<h2>🧰 My Tech Stack</h2>
+<h2> My Tech Stack</h2>
 <table>
   <tr>
     <td align="center" width="96">
