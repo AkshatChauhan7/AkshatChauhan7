@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/58/93/d0/5893d0d2c1c7bdb6e71ffd6f4b8587ea.gif" width="265"/>
-  <img src="https://i.pinimg.com/1200x/86/0a/24/860a241f962d49e28e20733ebe83a2ec.jpg" width="265"/>
-  <img src="https://i.pinimg.com/originals/ad/cd/20/adcd20579f0014e7c864c8e9cf3377a0.gif" width="265"/>
-</p>
 
-
-<h1 align="center">Hi, I'm Akshat Chauhan</h1>
+<h1 align="center">Akshat Chauhan</h1>
 <p align="center">
-  BTech CSE Student · JavaFX Developer · DSA with C++ · Web & Backend Learner · Tech Explorer
+  BTech CSE Student · JavaFX Developer · DSA with C++ · Web & Backend Learner · Tech Explorer · Currently learning Automation
 </p>
 
 
@@ -83,7 +77,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="26"/>
 </p>
 
-### 🚀 Core Development
+### Core Development
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=flat&logo=codeforces&logoColor=white" height="26"/>
@@ -108,6 +102,7 @@ I believe in building real-world projects to learn deeply, solve actual problems
 - **C++ for Competitive Programming** 
 - **Web Development**
 - **AI/ML**
+- **Automation through n8n**
 
 ---
 
