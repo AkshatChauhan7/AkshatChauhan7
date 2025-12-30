@@ -11,6 +11,7 @@
 
 I'm **Akshat**, a Computer Science student who’s passionate about turning ideas into working, impactful solutions.  
 I believe in building real-world projects to learn deeply, solve actual problems, and refine both technical and creative skills.
+Live Portfolio - https://akshat-portfolio-livid-zeta.vercel.app/
 
 ---
 
