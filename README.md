@@ -1,16 +1,15 @@
 
 <h1 align="center">Akshat Chauhan</h1>
 <p align="center">
-  BTech CSE Student · JavaFX Developer · DSA with C++ · Web & Backend Learner · Tech Explorer · Currently learning Automation
+  BTech CSE Student · Developer · DSA with C++ · Web & Backend Learner · Tech Explorer · Currently learning Automation
 </p>
-
 
 ---
 
 ##  About Me
 
-I'm **Akshat**, a Computer Science student who’s passionate about turning ideas into working, impactful solutions.  
-I believe in building real-world projects to learn deeply, solve actual problems, and refine both technical and creative skills.
+I'm **Akshat**, a Computer Science student who builds projects. 
+Believe in building real-world projects to learn deeply, solve actual problems, and refine both technical and creative skills.
 Live Portfolio - https://akshat-portfolio-livid-zeta.vercel.app/
 
 ---
@@ -89,6 +88,7 @@ Live Portfolio - https://akshat-portfolio-livid-zeta.vercel.app/
 
 ##  Projects
 
+- **Spectra** - a graph to audio model for visually impaired students
 - **Fitness Tracker App** – A JavaFX + MySQL application to log workouts, meals, and fitness data
 - **My LeetCode Solutions** - Add LeetCode Solution in this repository when ever I complete one
 - **My first deployed mini project** - Deployed a currency converter on Vercel https://currency-converter-red-eight.vercel.app/
@@ -111,10 +111,11 @@ Live Portfolio - https://akshat-portfolio-livid-zeta.vercel.app/
 
 ##  A Bit More About Me
 
+- I love watching **anime**
 - I enjoy applying tech in **health domains and tracking progress in DSA**  
 - I'm focused on **building skills** by actually **shipping projects**  
 - Also passionate about **UI/UX**, making code look and feel good
-- I love to go gym
+- I love to go to the gym
 - I balance my logical side with **anime art as a hobby**
 
 
